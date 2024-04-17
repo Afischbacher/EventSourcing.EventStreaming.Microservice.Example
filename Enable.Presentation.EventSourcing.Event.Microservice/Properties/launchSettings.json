@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Enable.Presentation.EventSourcing.Event.Microservice": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7033",
+      "launchBrowser": false
+    }
+  }
+}
