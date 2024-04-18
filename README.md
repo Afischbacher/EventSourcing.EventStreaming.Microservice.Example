@@ -1,4 +1,4 @@
-# Enable.Presentation.EventSourcing.Event.Microservice
+# EventSourcing.EventStreaming.Microservice
 
 ## Summary
 This repository serves as a demonstration of implementing the outbox pattern with a SQL database and Object-Relational Mapping (ORM). The primary objective is to showcase the integration of this pattern to efficiently issue events into an Event Bus. By doing so, it enables and leverages the principles of Domain Driven Design (DDD) and Event Sourcing (ES).
